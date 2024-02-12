@@ -1,0 +1,10 @@
+pandas
+plotly==5.18.0
+scikit-learn==1.0.2
+numpy==1.23.4
+seaborn 
+matplotlib 
+prophet
+calplot
+statsmodels
+fbprophet
