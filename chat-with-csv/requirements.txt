@@ -1,0 +1,7 @@
+langchain
+CTransformers
+sentence-transformers
+faiss-cpu
+llama-index
+langchain-community
+
